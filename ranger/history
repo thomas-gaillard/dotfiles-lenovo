@@ -1,0 +1,12 @@
+open_with comix
+select-editor
+open_with atril
+
+open_with nano
+open_with 
+shell touch webpage.html
+delete
+setintag
+find 
+find music
+find h
